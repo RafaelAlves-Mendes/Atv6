@@ -1,1 +1,1 @@
-# Atv6
+Texto escrito pelo Terminal A
